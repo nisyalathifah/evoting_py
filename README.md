@@ -13,20 +13,6 @@ Clone repositori ini.
 Jalankan file main.py dengan Python 3.
 Ikuti menu navigasi untuk menggunakan aplikasi.
 
-Stuktur folder
-
-e_voting/
-├── main.py
-├── modul/
-│   ├── pemilih.py
-│   ├── calon.py
-│   ├── voting.py
-│   ├── statistik.py
-│   └── utils.py
-├── data/
-│   ├── pemilih.json
-│   └── calon.json
-└── README.md
 
 Dibuat oleh 
 nisya lathifah 
